@@ -1,6 +1,6 @@
 # BCI_MotorImagery
 Brain-Computer Interface Replication Project
-Overview
+Overview.
 This project is a foundational exploration into Brain-Computer Interface (BCI) technology. By leveraging affordable tools like the Muse 2 EEG headset and open-source libraries, the project demonstrates how real EEG signals can be processed to control an interactive game, showcasing the potential of BCI in real-world applications.
 
 Features
